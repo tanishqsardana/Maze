@@ -9,4 +9,4 @@ Used concepts of Java Queue and Stack
 
 Uploaded program uses Stack as a Frontier but you can change it to Queue
 
-You can even find the path traversed which was wrong 
+You can even find the path traversed which was wrong, in the image
